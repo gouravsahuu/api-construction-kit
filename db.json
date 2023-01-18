@@ -65896,5 +65896,31 @@
   "questionChoices": [],
   "questionAnswers": [],
   "quizSubmissions": [],
-  "miscJsonData": []
+  "miscJsonData": [],
+  "appliances": [
+    {
+      "title":"blender",
+      "description":"This is a very nice blender",
+      "image":"some image url",
+      "price":"500.00"
+    },
+    {
+      "title":"blender2",
+      "description":"This is a very nice blender2",
+      "image":"some image url",
+      "price":"400.00"
+    },
+    {
+      "title":"blender3",
+      "description":"This is a very nice blender3",
+      "image":"some image url",
+      "price":"300.00"
+    },
+    {
+      "title":"blender4",
+      "description":"This is a very nice blender4",
+      "image":"some image url",
+      "price":"600.00"
+    }
+  ]
 }
